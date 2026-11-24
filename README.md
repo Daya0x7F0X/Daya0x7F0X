@@ -18,6 +18,7 @@
 | [`USBArmyKnife`](https://github.com/Daya0x7F0X/USBArmyKnife) | Hardware | Fork — BadUSB-Swiss-Army-Knife (ESP32-S3): HID, Mass-Storage, Netzwerk, Marauder, Agent (MIT) |
 | [`minimind`](https://github.com/Daya0x7F0X/minimind) | AI/LLM | Fork — 64M-LLM von Grund auf trainieren (2h auf einer 3090): Pretrain/SFT/LoRA/DPO/PPO/GRPO (Apache 2.0) |
 | [`drawio-desktop`](https://github.com/Daya0x7F0X/drawio-desktop) | Tools | Fork — offizieller draw.io-Desktop (Diagramme offline); `RELEASE-HINWEIS.md` mit v31.4.4-Download-Links (Apache 2.0) |
+| [`pentest-copilot`](https://github.com/Daya0x7F0X/pentest-copilot) | AI/Pentest | Fork von bugbasesecurity — agentischer Pentest-Agent: die KI führt selbstständig Tools auf einer Kali-Box aus, plus Burp, Browser-Agent, Subagenten; eigene Datei: `ANLEITUNG-DE.md` (MIT) |
 
 > Hardware/AI-Forks enthalten fremden Code — Lizenz & Herkunft stehen in jedem Repo.
 > Eigene Ergänzungen (Anleitungen, Payloads, Skripte) liegen als eigene Dateien in den Forks.
